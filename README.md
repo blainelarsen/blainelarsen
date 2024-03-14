@@ -1,18 +1,6 @@
 Hi 👋 My name is Blaine Larsen
 ==============================
 
-Skills
-
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,php)](https://skillicons.dev)
-
-Technologies Used
-
-[![My Skills](https://skillicons.dev/icons?i=,wordpress,vscode,bitbucket,netlify)](https://skillicons.dev)
-
-Socials
-
-[![My Skills](https://skillicons.dev/icons?i=linkedin)](https://skillicons.dev)
-
 Front End Web Developer
 -----------------------
 
@@ -22,4 +10,11 @@ Front End Web Developer
 *   🧠  I'm learning Javascript/PHP & API's
 *   🤝  I'm open to collaborating on any projects!
 
+Skills
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,php)](https://skillicons.dev)
 
+Technologies Used
+[![My Skills](https://skillicons.dev/icons?i=,wordpress,vscode,bitbucket,netlify)](https://skillicons.dev)
+
+Socials
+[![My Skills](https://skillicons.dev/icons?i=linkedin)](https://skillicons.dev)
