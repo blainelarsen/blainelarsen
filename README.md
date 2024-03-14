@@ -20,4 +20,4 @@ Front End Web Developer
 
 **Socials**
 <br>
-[![My Skills](https://skillicons.dev/icons?i=linkedin)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/blaine-larsen/)
