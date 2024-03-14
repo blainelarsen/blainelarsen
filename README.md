@@ -12,7 +12,7 @@ Front End Web Developer
 
 **Skills**
 <br>
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,php)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,php)](https://skillicons.dev)
 
 **Technologies Used**
 <br>
