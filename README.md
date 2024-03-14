@@ -10,13 +10,14 @@ Front End Web Developer
 *   🧠  I'm learning Javascript/PHP & API's
 *   🤝  I'm open to collaborating on any projects!
 
-Skills
+**Skills**
+<br>
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,php)](https://skillicons.dev)
 
-Technologies Used
+**Technologies Used**
 <br>
 [![My Skills](https://skillicons.dev/icons?i=,wordpress,vscode,bitbucket,netlify)](https://skillicons.dev)
 
-Socials
+**Socials**
 <br>
 [![My Skills](https://skillicons.dev/icons?i=linkedin)](https://skillicons.dev)
