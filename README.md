@@ -16,7 +16,7 @@ Front End Web Developer
 
 **Technologies Used**
 <br>
-[![My Skills](https://skillicons.dev/icons?i=,wordpress,vscode,bitbucket,netlify)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=wordpress,vscode,bitbucket,netlify)](https://skillicons.dev)
 
 **Socials**
 <br>
