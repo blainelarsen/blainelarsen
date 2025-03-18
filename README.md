@@ -1,4 +1,5 @@
-Hi 👋 My name is Blaine Larsen
+Hi 👋 
+I am Blaine Larsen 👨‍💻
 ==============================
 
 Front End Web Developer
